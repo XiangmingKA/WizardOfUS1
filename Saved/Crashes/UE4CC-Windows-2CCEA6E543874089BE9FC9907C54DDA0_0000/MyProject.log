@@ -1,0 +1,1227 @@
+﻿Log file open, 04/24/22 16:57:00
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.210700
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin OpenCVLensDistortion
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManager
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AjaMedia
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AppleProResMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin BlackmagicMedia
+LogPluginManager: Mounting plugin HAPMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaFrameworkUtilities
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin PixelStreaming
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin TimecodeSynchronizer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ColorCorrectRegions
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VirtualCamera
+LogPluginManager: Mounting plugin VirtualProductionUtilities
+LogPluginManager: Mounting plugin WebSocketNetworking
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin RemoteControl
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HDRIBackdrop
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin nDisplay
+LogPluginManager: Mounting plugin OSC
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SunPosition
+LogPluginManager: Mounting plugin TextureShare
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DMXProtocol
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ARUtilities
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleARKitFaceSupport
+LogXGEController: Cleaning working directory: C:/Users/xiangmik/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogTextureShare: TextureShare module has been instantiated
+LogTextureShare: TextureShare module has started
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: Microsoft Remote Display Adapter
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Engine.ini]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.Tonemapper.Sharpen:2]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.SceneRenderTargetResizeMethod:2]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:2048]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.HighResScreenshotDelay:8]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.GBufferFormat:3]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Engine.ini]
+[2022.04.24-20.57.01:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Engine.ini]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Engine.ini]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.24-20.57.01:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Engine.ini]
+[2022.04.24-20.57.01:258][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Engine.ini]
+[2022.04.24-20.57.01:260][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.24-20.57.01:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.24-20.57.01:261][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.24-20.57.01:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.24-20.57.01:261][  0]LogHAL: Display: Platform has ~ 16 GB [16881287168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.24-20.57.01:261][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.24-20.57.01:261][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Scalability.ini]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.24-20.57.01:262][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.24-20.57.01:263][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.24-20.57.01:263][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.24-20.57.01:263][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.24-20.57.01:263][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Engine.ini]
+[2022.04.24-20.57.01:263][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Config/Windows/Editor.ini]
+[2022.04.24-20.57.01:263][  0]LogInit: Computer: ETC-XIANGMIK
+[2022.04.24-20.57.01:263][  0]LogInit: User: xiangmik
+[2022.04.24-20.57.01:263][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.04.24-20.57.01:263][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.24-20.57.01:263][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.04.24-20.57.01:263][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.24-20.57.01:263][  0]LogMemory: Process Physical Memory: 146.58 MB used, 146.58 MB peak
+[2022.04.24-20.57.01:263][  0]LogMemory: Process Virtual Memory: 136.77 MB used, 136.77 MB peak
+[2022.04.24-20.57.01:263][  0]LogMemory: Physical Memory: 5967.28 MB used,  10131.97 MB free, 16099.25 MB total
+[2022.04.24-20.57.01:263][  0]LogMemory: Virtual Memory: 134168056.00 MB used,  49670.25 MB free, 134217728.00 MB total
+[2022.04.24-20.57.01:268][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.24-20.57.01:288][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.24-20.57.01:290][  0]LogInit: Using OS detected language (en-US).
+[2022.04.24-20.57.01:290][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.24-20.57.01:296][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.24-20.57.01:524][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.24-20.57.01:533][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.24-20.57.01:542][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.24-20.57.01:542][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.24-20.57.01:719][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2022.04.24-20.57.01:719][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.24-20.57.01:719][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.24-20.57.01:719][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.24-20.57.01:808][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.04.24-20.57.01:808][  0]LogD3D11RHI:       8043/0/8049 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.04.24-20.57.01:834][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.04.24-20.57.01:834][  0]LogD3D11RHI:       128/0/8049 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.04.24-20.57.01:836][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.24-20.57.01:836][  0]LogD3D11RHI:       0/0/8049 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.24-20.57.01:852][  0]LogD3D11RHI:    3. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.04.24-20.57.01:853][  0]LogD3D11RHI:       128/0/8049 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.04.24-20.57.01:853][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.24-20.57.01:857][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.24-20.57.01:857][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.24-20.57.01:857][  0]LogWindows: EnumDisplayDevices:
+[2022.04.24-20.57.01:858][  0]LogWindows:    0. 'Microsoft Remote Display Adapter' (P:1 D:1)
+[2022.04.24-20.57.01:858][  0]LogWindows:    1. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:858][  0]LogWindows:    2. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:858][  0]LogWindows:    3. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:858][  0]LogWindows:    4. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:858][  0]LogWindows:    5. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:858][  0]LogWindows:    6. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:858][  0]LogWindows:    7. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:860][  0]LogWindows:    8. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:861][  0]LogWindows:    9. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:861][  0]LogWindows:    10. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:861][  0]LogWindows:    11. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:861][  0]LogWindows:    12. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:861][  0]LogWindows:    13. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:861][  0]LogWindows:    14. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:861][  0]LogWindows:    15. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2022.04.24-20.57.01:861][  0]LogWindows: DebugString: PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed FoundDriverCount:0 
+[2022.04.24-20.57.01:861][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.04.24-20.57.01:861][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.04.24-20.57.01:861][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.04.24-20.57.01:861][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2022.04.24-20.57.01:923][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.24-20.57.01:923][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.24-20.57.01:923][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.24-20.57.01:936][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.24-20.57.01:937][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.24-20.57.02:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.24-20.57.02:183][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.24-20.57.02:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.24-20.57.02:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.24-20.57.02:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.24-20.57.02:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.24-20.57.02:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.24-20.57.02:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.24-20.57.02:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.24-20.57.02:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.24-20.57.02:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.24-20.57.02:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.24-20.57.02:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.24-20.57.02:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.24-20.57.02:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.24-20.57.02:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.24-20.57.02:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.24-20.57.02:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.24-20.57.02:321][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.24-20.57.02:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.24-20.57.02:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.24-20.57.02:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.24-20.57.02:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.24-20.57.02:353][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.24-20.57.02:360][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.24-20.57.02:411][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.24-20.57.02:411][  0]LogShaderCompilers: Guid format shader working directory is -110 characters bigger than the processId version (../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Shaders/WorkingDirectory/7684/).
+[2022.04.24-20.57.02:411][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/xiangmik/AppData/Local/Temp/UnrealShaderWorkingDir/D7484D7A43DEE15F35E842872A3F6764/'.
+[2022.04.24-20.57.02:411][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.24-20.57.02:411][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.24-20.57.03:099][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.24-20.57.03:180][  0]LogDerivedDataCache: Loaded boot cache 0.08s 100MB C:/Users/xiangmik/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.24-20.57.03:180][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/xiangmik/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.04.24-20.57.03:180][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.24-20.57.03:180][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.24-20.57.03:180][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.24-20.57.03:180][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.24-20.57.03:190][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.24-20.57.03:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.24-20.57.03:190][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.24-20.57.03:201][  0]LogDerivedDataCache: Speed tests for C:/Users/xiangmik/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.04.24-20.57.03:201][  0]LogDerivedDataCache: Display: Performance to C:/Users/xiangmik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=115.35MBs, RandomWriteSpeed=261.06MBs. Assigned SpeedClass 'Local'
+[2022.04.24-20.57.03:202][  0]LogDerivedDataCache: Using Local data cache path C:/Users/xiangmik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.24-20.57.03:202][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.24-20.57.03:202][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.24-20.57.03:370][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.24-20.57.03:370][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.24-20.57.03:390][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2022.04.24-20.57.03:571][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.24-20.57.03:571][  0]LogInit: Active device profile: [000001C9DD671F00][000001C9DE9EA680 49] Windows
+[2022.04.24-20.57.03:571][  0]LogInit: Profiles: [000001C9DD671F00][000001C9DE9EA680 49] Windows, [000001C9DE5D0700][000001C9DEA8A800 49] WindowsNoEditor, [000001C9DD671E00][000001C9DEAB0980 49] WindowsServer, [000001C9DE5BBF00][000001C9DEAE6B00 49] WindowsClient, [000001C9DE5D2400][000001C9DEB68C80 49] IOS, [000001C9DE5BA300][000001C9DEB72E00 49] iPadAir, [000001C9DE5D0B00][000001C9DEBC4F80 49] iPadAir2, [000001C9DE561D00][000001C9DEC15240 49] IPadPro, [000001C9DE561E00][000001C9DEBEF280 49] iPadAir3, [000001C9DE5D0200][000001C9DEC4F400 49] iPadAir4, [000001C9DE563600][000001C9DEC69580 49] iPadMini2, [000001C9DE5D1B00][000001C9DECAF700 49] iPadMini3, [000001C9DE560E00][000001C9DECB3880 49] iPadMini4, [000001C9DE5D2E00][000001C9DE9EF9C0 49] iPadMini5, [000001C9DE5B9D00][000001C9DECBBC00 49] iPhone6, [000001C9DE5B9E00][000001C9DECB7C40 49] iPodTouch6, [000001C9DE560B00][000001C9DECC6200 49] iPhone7, [000001C9DE560C00][000001C9DECBE240 49] iPodTouch7, [000001C9DE5BAC00][000001C9DECCA3C0 49] iPhone5S, [000001C9DE561200][000001C9DECCE540 49] iPhone6Plus, [000001C9DE5B9800][000001C9DECE06C0 49] iPhone6S, [000001C9DE561C00][000001C9DED08840 49] iPhone6SPlus, [000001C9DE5BB000][000001C9DED389C0 49] iPhone7Plus, [000001C9DE561400][000001C9DED66B40 49] iPhoneSE, [000001C9DE5B9F00][000001C9DED86CC0 49] iPhone8, [000001C9DE560D00][000001C9DEDB8E40 49] iPhone8Plus, [000001C9DE5BA700][000001C9DEDD2FC0 49] iPhoneX, [000001C9DE562100][000001C9DEDED140 49] iPhoneXS, [000001C9DE5B8E00][000001C9DEE1B2C0 49] iPhoneXSMax, [000001C9DE561100][000001C9DEE3F440 49] iPhoneXR, [000001C9DE5BA100][000001C9DEE535C0 49] iPhone11, [000001C9DE560800][000001C9DEE99740 49] iPhone11Pro, [000001C9DE5BB600][000001C9DEEC98C0 49] iPhone11ProMax, [000001C9DE561300][000001C9DECC3A00 49] iPhoneSE2, [000001C9DE5BA400][000001C9DEF15B40 49] iPhone12Mini, [000001C9DE562700][000001C9DEF37C80 49] iPhone12, [000001C9DE5B8700][000001C9DEFC4100 49] iPhone12Pro, [000001C9DE562600][000001C9DEFD4280 49] iPhone12ProMax, [000001C9DE5BB500][000001C9DF020400 49] iPadPro105, [000001C9DE562B00][000001C9DF03C580 49] iPadPro129, [000001C9DE5BB800][000001C9DF07C700 49] iPadPro97, [000001C9DE562C00][000001C9DF0BE880 49] iPadPro2_129, [000001C9DD670600][000001C9DF0FCA00 49] iPad5, [000001C9DE563F00][000001C9DF12CB80 49] iPad6, [000001C9DD671000][000001C9DF16ED00 49] iPad7, [000001C9DE562000][000001C9DF1ACE80 49] iPad8, [000001C9DD671A00][000001C9DF1F7000 49] iPadPro11, [000001C9DE560100][000001C9DF213180 49] iPadPro2_11, [000001C9DD670200][000001C9DF249300 49] iPadPro3_129, [000001C9DE560600][000001C9DF24D480 49] iPadPro4_129, [000001C9DD671700][000001C9DF257600 49] AppleTV, [000001C9DE560700][000001C9DF2F1780 49] AppleTV4K, [000001C9DD670700][000001C9DF305900 49] TVOS, [000001C9DE562300][000001C9DF32DA80 49] Mac, [000001C9DD671300][000001C9DEFD1BC0 49] MacClient, [000001C9DE563300][000001C9DF39BD00 49] MacNoEditor, [000001C9DD670A00][000001C9DF3FA180 49] MacServer, [000001C9DE563800][000001C9DF438300 49] Linux, [000001C9DD670F00][000001C9DF474480 49] LinuxAArch64, [000001C9DE563100][000001C9DF49E600 49] LinuxNoEditor, [000001C9DD670D00][000001C9DF4D4780 49] LinuxAArch64NoEditor, [000001C9DE563500][000001C9DF510900 49] LinuxClient, [000001C9DD670800][000001C9DF574A80 49] LinuxAArch64Client, [000001C9DE560300][000001C9DF5ECC00 49] LinuxServer, [000001C9DD671C00][000001C9DF5FED80 49] LinuxAArch64Server, [000001C9DE562D00][000001C9DF62AF00 49] Android, [000001C9DD670100][000001C9DF635080 49] Android_Low, [000001C9DE562900][000001C9DF713200 49] Android_Mid, [000001C9DD671600][000001C9DF773380 49] Android_High, [000001C9DE560200][000001C9DF78B500 49] Android_Default, [000001C9DD670400][000001C9DF811680 49] Android_Adreno4xx, [000001C9DE5D1200][000001C9DF939800 49] Android_Adreno5xx_Low, [000001C9DE5B8600][000001C9DF93D980 49] Android_Adreno5xx, [000001C9DE5D2900][000001C9DF941B00 49] Android_Adreno6xx, [000001C9DE5B9C00][000001C9DF435C40 49] Android_Adreno6xx_Vulkan, [000001C9DE5D1800][000001C9DF94E0C0 49] Android_Mali_T6xx, [000001C9DE5B8C00][000001C9DF972200 49] Android_Mali_T7xx, [000001C9DE5D0100][000001C9DF9CC340 49] Android_Mali_T8xx, [000001C9DE5BA000][000001C9DF9EA4C0 49] Android_Mali_G71, [000001C9DE5D3D00][000001C9DFA26640 49] Android_Mali_G72, [000001C9DE5BBD00][000001C9DFA407C0 49] Android_Mali_G72_Vulkan, [000001C9DE5D1D00][000001C9DFA64940 49] Android_Mali_G76, [000001C9DE5B8D00][000001C9DFA76AC0 49] Android_Mali_G76_Vulkan, [000001C9DE5D0400][000001C9DFA7AC40 49] Android_Mali_G77, [000001C9DE5B8100][000001C9DFA82DC0 49] Android_Mali_G77_Vulkan, [000001C9DE5D2000][000001C9DFA8CF40 49] Android_Vulkan_SM5, [000001C9DE5B8A00][000001C9DFB7D0C0 49] Android_PowerVR_G6xxx, [000001C9DE5D2100][000001C9DFBB3240 49] Android_PowerVR_GT7xxx, [000001C9DE5BAA00][000001C9DFC013C0 49] Android_PowerVR_GE8xxx, [000001C9DE5D3B00][000001C9DFC0D540 49] Android_PowerVR_GM9xxx, [000001C9DE5BAD00][000001C9DFC436C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001C9DE5D2300][000001C9DFC4D840 49] Android_TegraK1, [000001C9DE5BA600][000001C9DFC519C0 49] Android_Unknown_Vulkan, [000001C9DE5D0D00][000001C9DFC55B40 49] Lumin, [000001C9DE5BBC00][000001C9DF9E7C80 49] Lumin_Desktop, [000001C9DE5D3400][000001C9DFC58100 49] HoloLens, 
+[2022.04.24-20.57.03:719][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.24-20.57.03:719][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.24-20.57.03:719][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.24-20.57.03:719][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.24-20.57.03:719][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.24-20.57.03:732][  0]LogNetVersion: MyProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1177340986)
+[2022.04.24-20.57.04:255][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.24-20.57.04:307][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2022.04.24-20.57.04:809][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/2657c409.bin'.
+[2022.04.24-20.57.04:811][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2022.04.24-20.57.05:311][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/866581fd.bin'.
+[2022.04.24-20.57.05:313][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2022.04.24-20.57.05:814][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/8c0e1344.bin'.
+[2022.04.24-20.57.05:817][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2022.04.24-20.57.06:318][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/6bead350.bin'.
+[2022.04.24-20.57.06:321][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/b2d34d35.bin', retrying in .5s...
+[2022.04.24-20.57.06:823][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/b2d34d35.bin'.
+[2022.04.24-20.57.06:825][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/ccc5a7ee.bin', retrying in .5s...
+[2022.04.24-20.57.07:326][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/ccc5a7ee.bin'.
+[2022.04.24-20.57.07:329][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/2e36582e.bin', retrying in .5s...
+[2022.04.24-20.57.07:830][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/2e36582e.bin'.
+[2022.04.24-20.57.07:832][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/5adb1a08.bin', retrying in .5s...
+[2022.04.24-20.57.08:333][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/5adb1a08.bin'.
+[2022.04.24-20.57.08:335][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/218409f6.bin', retrying in .5s...
+[2022.04.24-20.57.08:836][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/218409f6.bin'.
+[2022.04.24-20.57.08:838][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/50a675f9.bin', retrying in .5s...
+[2022.04.24-20.57.09:338][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/50a675f9.bin'.
+[2022.04.24-20.57.09:341][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/db6fd95f.bin', retrying in .5s...
+[2022.04.24-20.57.09:843][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/db6fd95f.bin'.
+[2022.04.24-20.57.09:845][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/d859983c.bin', retrying in .5s...
+[2022.04.24-20.57.10:346][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/d859983c.bin'.
+[2022.04.24-20.57.10:347][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/58fb7916.bin', retrying in .5s...
+[2022.04.24-20.57.10:848][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/58fb7916.bin'.
+[2022.04.24-20.57.10:850][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/341bdab9.bin', retrying in .5s...
+[2022.04.24-20.57.11:351][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/341bdab9.bin'.
+[2022.04.24-20.57.11:352][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/45a8c3e3.bin', retrying in .5s...
+[2022.04.24-20.57.11:853][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/45a8c3e3.bin'.
+[2022.04.24-20.57.11:854][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/f18958a7.bin', retrying in .5s...
+[2022.04.24-20.57.12:356][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/f18958a7.bin'.
+[2022.04.24-20.57.12:358][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/52ed2538.bin', retrying in .5s...
+[2022.04.24-20.57.12:858][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/52ed2538.bin'.
+[2022.04.24-20.57.12:861][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/5e5a5b4b.bin', retrying in .5s...
+[2022.04.24-20.57.13:362][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/5e5a5b4b.bin'.
+[2022.04.24-20.57.13:363][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/089bc3de.bin', retrying in .5s...
+[2022.04.24-20.57.13:865][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/089bc3de.bin'.
+[2022.04.24-20.57.13:867][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/a02d411d.bin', retrying in .5s...
+[2022.04.24-20.57.14:367][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/a02d411d.bin'.
+[2022.04.24-20.57.14:369][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/9c1a1723.bin', retrying in .5s...
+[2022.04.24-20.57.14:870][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/9c1a1723.bin'.
+[2022.04.24-20.57.14:872][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/43d1d610.bin', retrying in .5s...
+[2022.04.24-20.57.15:373][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/43d1d610.bin'.
+[2022.04.24-20.57.15:375][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/09b713d3.bin', retrying in .5s...
+[2022.04.24-20.57.15:875][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/09b713d3.bin'.
+[2022.04.24-20.57.15:877][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/7b241018.bin', retrying in .5s...
+[2022.04.24-20.57.16:378][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/7b241018.bin'.
+[2022.04.24-20.57.16:382][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/c788b007.bin', retrying in .5s...
+[2022.04.24-20.57.16:883][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/c788b007.bin'.
+[2022.04.24-20.57.16:885][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/caa62944.bin', retrying in .5s...
+[2022.04.24-20.57.17:385][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/caa62944.bin'.
+[2022.04.24-20.57.17:388][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/2ad2a7fd.bin', retrying in .5s...
+[2022.04.24-20.57.17:889][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/2ad2a7fd.bin'.
+[2022.04.24-20.57.17:893][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/c36c8202.bin', retrying in .5s...
+[2022.04.24-20.57.18:394][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/c36c8202.bin'.
+[2022.04.24-20.57.18:396][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/9e4e5ee6.bin', retrying in .5s...
+[2022.04.24-20.57.18:897][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/9e4e5ee6.bin'.
+[2022.04.24-20.57.18:900][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/fd70e358.bin', retrying in .5s...
+[2022.04.24-20.57.19:401][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/fd70e358.bin'.
+[2022.04.24-20.57.19:403][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/24ce6b7d.bin', retrying in .5s...
+[2022.04.24-20.57.19:904][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/24ce6b7d.bin'.
+[2022.04.24-20.57.19:905][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/32e6fa40.bin', retrying in .5s...
+[2022.04.24-20.57.20:406][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/32e6fa40.bin'.
+[2022.04.24-20.57.20:409][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/eecbcdda.bin', retrying in .5s...
+[2022.04.24-20.57.20:910][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/eecbcdda.bin'.
+[2022.04.24-20.57.20:911][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/cc8b2eeb.bin', retrying in .5s...
+[2022.04.24-20.57.21:412][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/cc8b2eeb.bin'.
+[2022.04.24-20.57.21:414][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/b8a70c94.bin', retrying in .5s...
+[2022.04.24-20.57.21:915][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/b8a70c94.bin'.
+[2022.04.24-20.57.21:919][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/58a439e5.bin', retrying in .5s...
+[2022.04.24-20.57.22:420][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/58a439e5.bin'.
+[2022.04.24-20.57.22:422][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/d63b3057.bin', retrying in .5s...
+[2022.04.24-20.57.22:923][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/d63b3057.bin'.
+[2022.04.24-20.57.22:927][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/f6ffbf1f.bin', retrying in .5s...
+[2022.04.24-20.57.23:428][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/f6ffbf1f.bin'.
+[2022.04.24-20.57.23:430][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/937fc59e.bin', retrying in .5s...
+[2022.04.24-20.57.23:930][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/937fc59e.bin'.
+[2022.04.24-20.57.23:934][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/11b06015.bin', retrying in .5s...
+[2022.04.24-20.57.24:435][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/11b06015.bin'.
+[2022.04.24-20.57.24:439][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/d0ae4ecc.bin', retrying in .5s...
+[2022.04.24-20.57.24:940][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/d0ae4ecc.bin'.
+[2022.04.24-20.57.24:944][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/4526af43.bin', retrying in .5s...
+[2022.04.24-20.57.25:444][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/4526af43.bin'.
+[2022.04.24-20.57.25:447][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/f0d5030c.bin', retrying in .5s...
+[2022.04.24-20.57.25:948][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/f0d5030c.bin'.
+[2022.04.24-20.57.25:950][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/1f683343.bin', retrying in .5s...
+[2022.04.24-20.57.26:451][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/1f683343.bin'.
+[2022.04.24-20.57.26:453][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/ff0ba695.bin', retrying in .5s...
+[2022.04.24-20.57.26:953][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/ff0ba695.bin'.
+[2022.04.24-20.57.26:958][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/2f5244c7.bin', retrying in .5s...
+[2022.04.24-20.57.27:459][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/2f5244c7.bin'.
+[2022.04.24-20.57.27:463][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/807d872e.bin', retrying in .5s...
+[2022.04.24-20.57.27:964][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/AssetRegistryCache/807d872e.bin'.
+[2022.04.24-20.57.27:965][  0]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 23.658879 seconds
+[2022.04.24-20.57.27:970][  0]LogUObjectArray: 17306 objects as part of root set at end of initial load.
+[2022.04.24-20.57.27:970][  0]LogUObjectAllocator: 4374256 out of 0 bytes used by permanent object pool.
+[2022.04.24-20.57.27:970][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.24-20.57.28:135][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini]
+[2022.04.24-20.57.28:136][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini]
+[2022.04.24-20.57.28:374][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.24-20.57.28:380][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.24-20.57.28:389][  0]LogPython: Using Python 3.7.7
+[2022.04.24-20.57.29:284][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini]
+[2022.04.24-20.57.29:285][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini]
+[2022.04.24-20.57.29:285][  0]SourceControl: Source control is disabled
+[2022.04.24-20.57.29:285][  0]SourceControl: Source control is disabled
+[2022.04.24-20.57.29:291][  0]SourceControl: Source control is disabled
+[2022.04.24-20.57.29:296][  0]SourceControl: Source control is disabled
+[2022.04.24-20.57.29:298][  0]SourceControl: Source control is disabled
+[2022.04.24-20.57.29:391][  0]LogUProjectInfo: Found projects:
+[2022.04.24-20.57.29:407][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/Encryption.ini]
+[2022.04.24-20.57.29:409][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/Crypto.ini]
+[2022.04.24-20.57.29:868][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/WebRemoteControl.ini]
+[2022.04.24-20.57.29:869][  0]LogHttpServerModule: Starting all listeners...
+[2022.04.24-20.57.29:869][  0]LogHttpListener: Created new HttpListener on 127.0.0.1:30010
+[2022.04.24-20.57.29:869][  0]LogHttpServerModule: All listeners started
+[2022.04.24-20.57.29:873][  0]LogRemoteControl: Web Remote Control WebSocket server started on port 30020
+[2022.04.24-20.57.29:898][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.24-20.57.29:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.24-20.57.29:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.24-20.57.30:043][  0]LogDisplayClusterModule: Instantiating subsystem managers...
+[2022.04.24-20.57.30:043][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_mono
+[2022.04.24-20.57.30:043][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_mono
+[2022.04.24-20.57.30:043][  0]LogDisplayClusterRender: Registering factory for rendering device type: quad_buffer_stereo
+[2022.04.24-20.57.30:043][  0]LogDisplayClusterRender: Registered factory for rendering device type: quad_buffer_stereo
+[2022.04.24-20.57.30:043][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_side_by_side
+[2022.04.24-20.57.30:043][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_side_by_side
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_top_bottom
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_top_bottom
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterRender: Registering factory for synchronization policy: none
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterRender: Registered factory for syncrhonization policy: none
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterRender: Registering factory for synchronization policy: ethernet
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterRender: Registered factory for syncrhonization policy: ethernet
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterRender: Registering factory for synchronization policy: nvidia
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterRender: Registered factory for syncrhonization policy: nvidia
+[2022.04.24-20.57.30:044][  0]LogDisplayClusterModule: DisplayCluster module has been started
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterProjection: Projection module has been instantiated
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterProjection: Projection module startup
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterProjection: Registering <camera> projection policy factory...
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registering factory for projection type: camera
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registered factory for projection type: camera
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterProjection: Registering <simple> projection policy factory...
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registering factory for projection type: simple
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registered factory for projection type: simple
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterProjection: Registering <mpcdi> projection policy factory...
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registering factory for projection type: mpcdi
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registered factory for projection type: mpcdi
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterProjection: Registering <mesh> projection policy factory...
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registering factory for projection type: mesh
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registered factory for projection type: mesh
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterProjection: Registering <easyblend> projection policy factory...
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registering factory for projection type: easyblend
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registered factory for projection type: easyblend
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterProjection: Registering <vioso> projection policy factory...
+[2022.04.24-20.57.30:062][  0]LogDisplayClusterRender: Registering factory for projection type: vioso
+[2022.04.24-20.57.30:063][  0]LogDisplayClusterRender: Registered factory for projection type: vioso
+[2022.04.24-20.57.30:063][  0]LogDisplayClusterProjection: Registering <manual> projection policy factory...
+[2022.04.24-20.57.30:063][  0]LogDisplayClusterRender: Registering factory for projection type: manual
+[2022.04.24-20.57.30:063][  0]LogDisplayClusterRender: Registered factory for projection type: manual
+[2022.04.24-20.57.30:063][  0]LogDisplayClusterProjection: Registering <domeprojection> projection policy factory...
+[2022.04.24-20.57.30:063][  0]LogDisplayClusterRender: Registering factory for projection type: domeprojection
+[2022.04.24-20.57.30:063][  0]LogDisplayClusterRender: Registered factory for projection type: domeprojection
+[2022.04.24-20.57.30:063][  0]LogDisplayClusterProjection: Projection module has started
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterPostprocess: Postprocess module has been instantiated
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterPostprocess: Postprocess module startup
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterPostprocess: Registering <OutputRemap> projection policy factory...
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterRender: Registering post-process operation: OutputRemap
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterRender: Registered post-process operation: OutputRemap
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterPostprocess: Registering <TextureShare> projection policy factory...
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterRender: Registering post-process operation: TextureShare
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterRender: Registered post-process operation: TextureShare
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterPostprocess: Registering <D3D12CrossGPU> projection policy factory...
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterRender: Registering post-process operation: D3D12CrossGPU
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterRender: Registered post-process operation: D3D12CrossGPU
+[2022.04.24-20.57.30:068][  0]LogDisplayClusterPostprocess: Postprocess module has started
+[2022.04.24-20.57.30:071][  0]LogPicpProjection: Projection module has been instantiated
+[2022.04.24-20.57.30:071][  0]LogPicpProjection: Projection module startup
+[2022.04.24-20.57.30:071][  0]LogPicpProjection: Registering <picp_mpcdi> projection policy factory...
+[2022.04.24-20.57.30:071][  0]LogDisplayClusterRender: Registering factory for projection type: picp_mpcdi
+[2022.04.24-20.57.30:071][  0]LogDisplayClusterRender: Registered factory for projection type: picp_mpcdi
+[2022.04.24-20.57.30:071][  0]LogPicpProjection: Registering <picp_mesh> projection policy factory...
+[2022.04.24-20.57.30:071][  0]LogDisplayClusterRender: Registering factory for projection type: picp_mesh
+[2022.04.24-20.57.30:071][  0]LogDisplayClusterRender: Registered factory for projection type: picp_mesh
+[2022.04.24-20.57.30:071][  0]LogPicpProjection: Projection module has started
+[2022.04.24-20.57.30:164][  0]LogCollectionManager: Loaded 0 collections in 0.001381 seconds
+[2022.04.24-20.57.30:190][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Saved/Collections/' took 0.00s
+[2022.04.24-20.57.30:190][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Content/Developers/xiangmik/Collections/' took 0.00s
+[2022.04.24-20.57.30:190][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Content/Collections/' took 0.00s
+[2022.04.24-20.57.30:191][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2022.04.24-20.57.30:192][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 19.0.498/bin
+[2022.04.24-20.57.30:192][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/4.26/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.04.24-20.57.30:246][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2022.04.24-20.57.30:246][  0]LogOcInput: OculusInput pre-init called
+[2022.04.24-20.57.30:258][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.04.24-20.57.30:258][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.04.24-20.57.30:274][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/VirtualCamera.ini]
+[2022.04.24-20.57.30:309][  0]LogDisplayClusterInputAnalog: nDisplay input controller has been initialized <Analog>
+[2022.04.24-20.57.30:355][  0]LogDisplayClusterModule: Initializing subsystems to editor operation mode
+[2022.04.24-20.57.30:355][  0]LogDisplayClusterEditorEngine: DisplayCluster module has been initialized
+[2022.04.24-20.57.30:356][  0]LogEngine: Initializing Engine...
+[2022.04.24-20.57.30:358][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2022.04.24-20.57.30:359][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.24-20.57.30:582][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.24-20.57.30:592][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.24-20.57.30:596][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.24-20.57.30:600][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.24-20.57.30:600][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.24-20.57.30:600][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.24-20.57.30:600][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.24-20.57.30:600][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.24-20.57.30:600][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.24-20.57.30:600][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.24-20.57.30:600][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.24-20.57.30:600][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.24-20.57.30:600][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.24-20.57.30:600][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.24-20.57.30:600][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.24-20.57.30:613][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.24-20.57.30:613][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.24-20.57.30:677][  0]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2022.04.24-20.57.30:679][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.24-20.57.30:680][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.24-20.57.30:680][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.24-20.57.30:681][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.24-20.57.30:681][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.24-20.57.30:681][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.24-20.57.30:681][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.24-20.57.30:681][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.24-20.57.30:681][  0]LogInit: FAudioDevice initialized.
+[2022.04.24-20.57.30:682][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.24-20.57.30:682][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.24-20.57.30:729][  0]LogDerivedDataCache: Saved boot cache 0.05s 117MB C:/Users/xiangmik/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.04.24-20.57.30:733][  0]LogInit: Texture streaming: Enabled
+[2022.04.24-20.57.30:744][  0]LogFileManager: Error: Error deleting file '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/CachedAssetRegistry.bin'.
+[2022.04.24-20.57.30:745][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.04.24-20.57.30:748][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.24-20.57.30:748][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.24-20.57.30:749][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.24-20.57.30:772][  0]LogInit: Transaction tracking system initialized
+[2022.04.24-20.57.30:790][  0]BlueprintLog: New page: Editor Load
+[2022.04.24-20.57.30:840][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2022.04.24-20.57.30:841][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2022.04.24-20.57.30:841][  0]LocalizationService: Localization service is disabled
+[2022.04.24-20.57.30:859][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini]
+[2022.04.24-20.57.30:860][  0]TimingProfiler: Initialize
+[2022.04.24-20.57.30:860][  0]TimingProfiler: OnSessionChanged
+[2022.04.24-20.57.30:860][  0]LoadingProfiler: Initialize
+[2022.04.24-20.57.30:860][  0]LoadingProfiler: OnSessionChanged
+[2022.04.24-20.57.30:860][  0]NetworkingProfiler: Initialize
+[2022.04.24-20.57.30:860][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.24-20.57.30:860][  0]MemoryProfiler: Initialize
+[2022.04.24-20.57.30:860][  0]MemoryProfiler: OnSessionChanged
+[2022.04.24-20.57.31:054][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.24-20.57.31:054][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.24-20.57.31:213][  0]LogFileCache: Scanning file cache for directory 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Content/' took 0.01s
+[2022.04.24-20.57.31:213][  0]PixelStreamer: PixelStreaming is disabled, provide `PixelStreamingIP` and `PixelStreamingPort` cmd-args to enable it
+[2022.04.24-20.57.31:246][  0]LogVideoDecoder: D3D11 Device for h/w accelerated decoding created: 000001C9CE29CC18
+[2022.04.24-20.57.31:293][  0]LogVPUtilitiesEditor: VP Scouting subsystem initialized.
+[2022.04.24-20.57.32:672][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2022.04.24-20.57.32:678][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2022.04.24-20.57.32:679][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2022.04.24-20.57.32:868][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.24-20.57.32:870][  0]SourceControl: Source control is disabled
+[2022.04.24-20.57.32:870][  0]LogUnrealEdMisc: Loading editor; pre map load, took 32.644
+[2022.04.24-20.57.32:871][  0]LightingResults: New page: Lighting Build
+[2022.04.24-20.57.32:872][  0]LogStreaming: Display: FlushAsyncLoading: 2 QueuedPackages, 0 AsyncPackages
+[2022.04.24-20.57.35:198][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-20.57.35:198][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.24-20.57.35:198][  0]MapCheck: New page: Map Check
+[2022.04.24-20.57.35:199][  0]LightingResults: New page: Lighting Build
+[2022.04.24-20.57.35:227][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.04.24-20.57.35:241][  0]LogLinker: Warning: Asset '../../../../../../Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Content/MSPresets/MSTextures/Metalness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.04.24-20.57.35:370][  0]LogLinker: Warning: [AssetLog] C:\Users\xiangmik\Perforce\xiangmik_Portal_Harmony\etc\projects\2022_semester_1\portal-harmony\Working\Adv\Environment_Test_4.4_dragon_animation\Content\Assets\Waterfall\Assets\Waterfall\Assets\Waterfall\Main\Particles\P_WaterfallSmoke.uasset: Failed to load '/Game/Assets/Waterfall/Assets/Waterfall/Assets/Waterfall/Main/Particles/Assets/Waterfall/Assets/Waterfall/Main/Particles/WaterfallCloud': Can't find file.
+[2022.04.24-20.57.35:370][  0]LogLinker: Warning: [AssetLog] C:\Users\xiangmik\Perforce\xiangmik_Portal_Harmony\etc\projects\2022_semester_1\portal-harmony\Working\Adv\Environment_Test_4.4_dragon_animation\Content\Assets\Waterfall\Assets\Waterfall\Assets\Waterfall\Main\Particles\P_WaterfallSmoke.uasset: Failed to load '/Game/Assets/Waterfall/Assets/Waterfall/Assets/Waterfall/Main/Particles/Assets/Waterfall/Assets/Waterfall/Main/Particles/WaterfallCloud': Can't find file.
+[2022.04.24-20.57.35:371][  0]LogLinker: Warning: [AssetLog] C:\Users\xiangmik\Perforce\xiangmik_Portal_Harmony\etc\projects\2022_semester_1\portal-harmony\Working\Adv\Environment_Test_4.4_dragon_animation\Content\Assets\Waterfall\Assets\Waterfall\Assets\Waterfall\Main\Particles\P_WaterfallSmoke.uasset: Failed to load '/Game/Assets/Waterfall/Assets/Waterfall/Assets/Waterfall/Main/Particles/Assets/Waterfall/Assets/Waterfall/Main/Particles/WaterfallCloud': Can't find file.
+[2022.04.24-20.57.35:399][  0]LogLinker: Warning: [AssetLog] C:\Users\xiangmik\Perforce\xiangmik_Portal_Harmony\etc\projects\2022_semester_1\portal-harmony\Working\Adv\Environment_Test_4.4_dragon_animation\Content\Assets\Waterfall\Assets\Waterfall\Assets\Waterfall\Main\Particles\P_WaterfallSmoke.uasset: Failed to load '/Game/Assets/Waterfall/Assets/Waterfall/Assets/Waterfall/Main/Particles/Assets/Waterfall/Assets/Waterfall/Main/Particles/WaterfallCloud': Can't find file.
+[2022.04.24-20.57.35:399][  0]LoadErrors: Failed to load /Game/Assets/Waterfall/Assets/Waterfall/Assets/Waterfall/Main/Particles/Assets/Waterfall/Assets/Waterfall/Main/Particles/WaterfallCloud.WaterfallCloud Referenced by ParticleModuleRequired_1
+[2022.04.24-20.57.40:638][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.04.24-20.57.40:638][  0]LogAIModule: Creating AISystem for world Main
+[2022.04.24-20.57.40:645][  0]LogMaterial: Display: Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV needed to have new flag set bUsedWithNiagaraSprites !
+[2022.04.24-20.57.40:648][  0]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2022.04.24-20.57.40:728][  0]MapCheck: Warning: M_smoke_subUV Material /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV was missing the usage flag bUsedWithNiagaraSprites. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 112
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 103
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 94
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 85
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 76
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 67
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 58
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 49
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.04.24-20.57.40:762][  0]LogShaderCompilers: Display: Worker (13/13): shaders left to compile 4
+[2022.04.24-20.57.40:762][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.24-20.57.40:775][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.04.24-20.57.40:779][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.24-20.57.40:779][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.19ms to complete.
+[2022.04.24-20.57.40:784][  0]LogFileHelpers: Loading map 'Main' took 7.914
+[2022.04.24-20.57.40:790][  0]LogUnrealEdMisc: Total Editor Startup Time, took 40.565
+[2022.04.24-20.57.40:958][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-20.57.40:966][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-20.57.40:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-20.57.40:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.24-20.57.40:999][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0128 seconds. Added 4154 classes and 1116 folders.
+[2022.04.24-20.57.41:005][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.04.24-20.57.41:008][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.24-20.57.41:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.24-20.57.41:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.04.24-20.57.41:009][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.24-20.57.41:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.24-20.57.41:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.04.24-20.57.41:011][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.24-20.57.41:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.24-20.57.41:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.04.24-20.57.41:012][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.24-20.57.41:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.24-20.57.41:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.04.24-20.57.41:014][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.24-20.57.41:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.24-20.57.41:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.24-20.57.41:015][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.24-20.57.41:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.24-20.57.41:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.24-20.57.41:017][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.24-20.57.41:017][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:017][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.24-20.57.41:017][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.04.24-20.57.41:018][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.24-20.57.41:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.24-20.57.41:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.04.24-20.57.41:019][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.24-20.57.41:019][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:019][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.24-20.57.41:019][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.04.24-20.57.41:021][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.24-20.57.41:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.24-20.57.41:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.04.24-20.57.41:022][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.24-20.57.41:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.24-20.57.41:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.04.24-20.57.41:023][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.24-20.57.41:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:023][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.24-20.57.41:023][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.04.24-20.57.41:025][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.24-20.57.41:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.24-20.57.41:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.04.24-20.57.41:026][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.24-20.57.41:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.24-20.57.41:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.04.24-20.57.41:027][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.24-20.57.41:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.24-20.57.41:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.04.24-20.57.41:029][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.24-20.57.41:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.24-20.57.41:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.04.24-20.57.41:030][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.24-20.57.41:030][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:030][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.24-20.57.41:030][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.04.24-20.57.41:032][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.24-20.57.41:032][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.24-20.57.41:032][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.04.24-20.57.41:033][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.24-20.57.41:033][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:033][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.24-20.57.41:033][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.04.24-20.57.41:034][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.24-20.57.41:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.24-20.57.41:034][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.04.24-20.57.41:036][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.24-20.57.41:036][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:036][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.24-20.57.41:036][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.04.24-20.57.41:037][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.24-20.57.41:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.24-20.57.41:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.04.24-20.57.41:039][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.24-20.57.41:039][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:039][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.24-20.57.41:039][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.04.24-20.57.41:040][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.24-20.57.41:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.24-20.57.41:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.04.24-20.57.41:042][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.24-20.57.41:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.24-20.57.41:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.04.24-20.57.41:044][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.24-20.57.41:044][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.24-20.57.41:044][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.24-20.57.41:044][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.04.24-20.57.41:141][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.04.24-20.57.41:143][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.04.24-20.57.41:357][  0]LogSlate: Took 0.000838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.24-20.57.41:359][  0]LogSlate: Took 0.000642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.24-20.57.41:503][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2022.04.24-20.57.41:812][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.04.24-20.57.41:812][  0]LogLoad: (Engine Initialization) Total time: 41.59 seconds
+[2022.04.24-20.57.41:813][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.24-20.57.41:813][  0]LogInit: First time updating LLM stats...
+[2022.04.24-20.57.41:829][  0]LogDisplayClusterInputModule: DisplayClusterInput device has been initialized
+[2022.04.24-20.57.42:396][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.24-20.57.42:562][  0]LogSlate: Took 0.000806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.24-20.57.42:610][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Content/' took 0.76s
+[2022.04.24-20.57.42:743][  2]LogAssetRegistry: Asset discovery search completed in 39.3551 seconds
+[2022.04.24-20.57.42:754][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2022.04.24-20.57.44:964][ 47]LogSlate: Took 0.002667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.24-20.57.46:531][ 79]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-20.57.46:589][ 79]LogSlate: Window 'Message Log' being destroyed
+[2022.04.24-20.57.51:881][393]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.04.24-20.57.56:612][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Environmnet_4_8_pillar6_pCylinder14)
+[2022.04.24-20.57.56:681][860]LogSlate: Took 0.000548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.24-20.58.17:881][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.24-20.58.19:268][ 47]LogSlate: Window 'Save Content' being destroyed
+[2022.04.24-20.58.19:306][ 47]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2022.04.24-20.58.19:306][ 47]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.24-20.58.19:403][ 48]Cmd: QUIT_EDITOR
+[2022.04.24-20.58.19:403][ 48]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.24-20.58.19:416][ 48]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.24-20.58.19:418][ 48]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.24-20.58.19:418][ 48]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.24-20.58.19:418][ 48]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2022.04.24-20.58.19:418][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-20.58.19:419][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.24-20.58.19:440][ 48]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.24-20.58.19:444][ 48]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.24-20.58.19:444][ 48]LogExit: Preparing to exit.
+[2022.04.24-20.58.20:192][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD671F00] Windows
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD672000] Default__DeviceProfile
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D0700] WindowsNoEditor
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD671E00] WindowsServer
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BBF00] WindowsClient
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D2400] IOS
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BA300] iPadAir
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D0B00] iPadAir2
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE561D00] IPadPro
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE561E00] iPadAir3
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D0200] iPadAir4
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE563600] iPadMini2
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D1B00] iPadMini3
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560E00] iPadMini4
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D2E00] iPadMini5
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B9D00] iPhone6
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B9E00] iPodTouch6
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560B00] iPhone7
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560C00] iPodTouch7
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BAC00] iPhone5S
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE561200] iPhone6Plus
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B9800] iPhone6S
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE561C00] iPhone6SPlus
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BB000] iPhone7Plus
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE561400] iPhoneSE
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B9F00] iPhone8
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560D00] iPhone8Plus
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BA700] iPhoneX
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562100] iPhoneXS
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B8E00] iPhoneXSMax
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE561100] iPhoneXR
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BA100] iPhone11
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560800] iPhone11Pro
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BB600] iPhone11ProMax
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE561300] iPhoneSE2
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BA400] iPhone12Mini
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562700] iPhone12
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B8700] iPhone12Pro
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562600] iPhone12ProMax
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BB500] iPadPro105
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562B00] iPadPro129
+[2022.04.24-20.58.20:509][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BB800] iPadPro97
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562C00] iPadPro2_129
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670600] iPad5
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE563F00] iPad6
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD671000] iPad7
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562000] iPad8
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD671A00] iPadPro11
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560100] iPadPro2_11
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670200] iPadPro3_129
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560600] iPadPro4_129
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD671700] AppleTV
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560700] AppleTV4K
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670700] TVOS
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562300] Mac
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD671300] MacClient
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE563300] MacNoEditor
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670A00] MacServer
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE563800] Linux
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670F00] LinuxAArch64
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE563100] LinuxNoEditor
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670D00] LinuxAArch64NoEditor
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE563500] LinuxClient
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670800] LinuxAArch64Client
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560300] LinuxServer
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD671C00] LinuxAArch64Server
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562D00] Android
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670100] Android_Low
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE562900] Android_Mid
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD671600] Android_High
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE560200] Android_Default
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DD670400] Android_Adreno4xx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D1200] Android_Adreno5xx_Low
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B8600] Android_Adreno5xx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D2900] Android_Adreno6xx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B9C00] Android_Adreno6xx_Vulkan
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D1800] Android_Mali_T6xx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B8C00] Android_Mali_T7xx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D0100] Android_Mali_T8xx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BA000] Android_Mali_G71
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D3D00] Android_Mali_G72
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BBD00] Android_Mali_G72_Vulkan
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D1D00] Android_Mali_G76
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B8D00] Android_Mali_G76_Vulkan
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D0400] Android_Mali_G77
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B8100] Android_Mali_G77_Vulkan
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D2000] Android_Vulkan_SM5
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5B8A00] Android_PowerVR_G6xxx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D2100] Android_PowerVR_GT7xxx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BAA00] Android_PowerVR_GE8xxx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D3B00] Android_PowerVR_GM9xxx
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BAD00] Android_PowerVR_GM9xxx_Vulkan
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D2300] Android_TegraK1
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BA600] Android_Unknown_Vulkan
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D0D00] Lumin
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5BBC00] Lumin_Desktop
+[2022.04.24-20.58.20:510][ 48]LogDeviceProfile: Device profile begin destroy: [000001C9DE5D3400] HoloLens
+[2022.04.24-20.58.20:518][ 48]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-20.58.20:518][ 48]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.24-20.58.20:522][ 48]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/ReimportCache/3688439234.bin', retrying in .5s...
+[2022.04.24-20.58.21:023][ 48]LogFileManager: Error: Error deleting file 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/ReimportCache/3688439234.bin'.
+[2022.04.24-20.58.21:023][ 48]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.24-20.58.22:635][ 48]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.613 s
+[2022.04.24-20.58.22:635][ 48]LogOutputDevice: Error: === Handled ensure: ===
+[2022.04.24-20.58.22:635][ 48]LogOutputDevice: Error: 
+[2022.04.24-20.58.22:635][ 48]LogOutputDevice: Error: Ensure condition failed: bMoved [File:D:/Build/++UE4/Sync/Engine/Source/Developer/DirectoryWatcher/Private/FileCache.cpp] [Line: 545]
+[2022.04.24-20.58.22:635][ 48]LogOutputDevice: Error: Unable to move file-cache for 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Content/' from 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/ReimportCache/3688439234.bin.tmp' to 'C:/Users/xiangmik/Perforce/xiangmik_Portal_Harmony/etc/projects/2022_semester_1/portal-harmony/Working/Adv/Environment_Test_4.4_dragon_animation/Intermediate/ReimportCache/3688439234.bin' (free disk space: 0)
+[2022.04.24-20.58.22:635][ 48]LogOutputDevice: Error: Stack: 
+[2022.04.24-20.58.22:635][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff869c0c065 UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff869c03bae UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff869beb120 UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff81e3969d2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff81e3766f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff866eb9bc8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff866e988d8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff866e5898d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff866ef216f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff866cf1827 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff79a4e93bd UE4Editor.exe!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff79a4e8d0d UE4Editor.exe!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff79a4f0649 UE4Editor.exe!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff79a4f1207 UE4Editor.exe!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff79a4f125a UE4Editor.exe!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff79a5052bd UE4Editor.exe!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff79a507fea UE4Editor.exe!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff8aff77034 KERNEL32.DLL!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: [Callstack] 0x00007ff8b0942651 ntdll.dll!UnknownFunction []
+[2022.04.24-20.58.22:636][ 48]LogOutputDevice: Error: 
